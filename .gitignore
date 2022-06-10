@@ -116,7 +116,8 @@ celerybeat.pid
 .venv
 env/
 venv/
-models/
+models/reader/
+models/retriever
 ENV/
 env.bak/
 venv.bak/
